@@ -5,5 +5,5 @@
     <string name="passwordString">Password:</string>
     <string name="saveString">SAVE</string>
     <string name="loadString">Load</string>
-    <string name="infostring">Info will be displayed here!</string>
+    <string name="infostring">Info will be displayed here?</string>
 </resources>
